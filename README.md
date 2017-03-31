@@ -1,0 +1,2 @@
+# Polls
+Sample Django Project
