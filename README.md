@@ -1,2 +1,2 @@
 # Polls
-Sample Django Project
+Sample Django Project made for practice. 
