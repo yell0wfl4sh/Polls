@@ -1,5 +1,7 @@
 #temporary files
 *~
+# .pyc files
+*.pyc
 
 #vim
 .*.sw*
